@@ -1,0 +1,14 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kittenman29/webtesting-i-challenge.git",
+  "author": "Will Schulz <will.schulz29@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest --watch --verbose"
+  }
+}
